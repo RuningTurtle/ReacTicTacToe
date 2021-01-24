@@ -1,3 +1,7 @@
+This project is from: reactjs.org/tutorial/tutorial.html
+I simply followed the tutorial and completed the required implementations (for now, may add features later).
+Below is the README.md from their starter code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
