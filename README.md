@@ -1,5 +1,8 @@
+
 This project is from: [reactjs.org/tutorial/tutorial.html](reactjs.org/tutorial/tutorial.html)
+
 I simply followed the tutorial and completed the required implementations (for now, may add features later).
+
 Below is the README.md from their starter code
 
 # Getting Started with Create React App
